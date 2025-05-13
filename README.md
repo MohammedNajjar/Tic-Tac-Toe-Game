@@ -26,3 +26,20 @@ lib/
 ├── board.dart     # Board class to manage the game grid
 ├── player.dart    # Player class to manage turns and markers
 └── game.dart      # Game class to control game flow
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Dart SDK installed  
+  👉 [Install Dart](https://dart.dev/get-dart)
+
+### Run the Game
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/MohammedNajjar/Tic-Tac-Toe-Game-.git
+cd Tic-Tac-Toe-Game-
