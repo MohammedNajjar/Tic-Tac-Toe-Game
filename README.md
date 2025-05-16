@@ -31,15 +31,3 @@ lib/
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Dart SDK installed  
-  👉 [Install Dart](https://dart.dev/get-dart)
-
-### Run the Game
-
-1. **Clone the repository**:
-
-```bash
-git clone https://github.com/MohammedNajjar/Tic-Tac-Toe-Game-.git
-cd Tic-Tac-Toe-Game-
