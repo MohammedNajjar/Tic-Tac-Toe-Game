@@ -28,7 +28,7 @@ class Game {
 
       if (choice == null || choice.toLowerCase() != 'y') {
         playAgain = false;
-        print("👋 Thanks for playing! Goodbye.");
+        print(" Thanks for playing! Goodbye.");
       }
     }
   }
@@ -52,11 +52,11 @@ class Game {
 
       if (board.checkWinFor(currentPlayer.mark)) {
         board.display();
-        print("🎉 Player ${currentPlayer.mark} wins!");
+        print(" Player ${currentPlayer.mark} wins!");
         gameEnded = true;
       } else if (board.isFull()) {
         board.display();
-        print("🤝 It's a draw!");
+        print(" It's a draw!");
         gameEnded = true;
       } else {
         switchPlayer();

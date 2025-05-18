@@ -21,10 +21,10 @@ class Player {
         if (board.isCellValid(position)) {
           validInput = true;
         } else {
-          print("⛔ Invalid move! Cell is taken or out of range.");
+          print(" Invalid move! Cell is taken or out of range.");
         }
       } else {
-        print("⚠️ Please enter a valid number.");
+        print("️ Please enter a valid number.");
       }
     }
 
